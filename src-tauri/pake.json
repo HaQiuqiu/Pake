@@ -1,7 +1,7 @@
 {
   "windows": [
     {
-      "url": "https://weread.qq.com",
+      "url": "http://mmccq.tpddns.cn:3001/auth",
       "transparent": true,
       "fullscreen": false,
       "width": 1200,
